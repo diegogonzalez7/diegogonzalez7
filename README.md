@@ -4,11 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bienvenido a mi perfil de GitHub</title>
-  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 
-# ¡Bienvenido a mi perfil de GitHub! <span class="animated-text">🎉</span>
+# ¡Bienvenido a mi perfil de GitHub! <span style="animation: pulse 2s infinite alternate;">🎉</span>
 
 Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías. Actualmente, estoy enfocado en mejorar mis habilidades en los siguientes lenguajes:
 
@@ -35,6 +34,13 @@ Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías
   - [Boletín 2](https://github.com/diegogonzalez7/DS_boletin2)
   - [Boletín 3](https://github.com/diegogonzalez7/DS_pd)
 
-<script src="script.js"></script>
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+</style>
+
 </body>
 </html>
