@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Bienvenido a mi perfil de GitHub!
 
-<!--
-**diegogonzalez7/diegogonzalez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías. Actualmente, estoy enfocado en mejorar mis habilidades en los siguientes lenguajes:
 
-Here are some ideas to get you started:
+- Python 🐍
+- C 🖥️
+- HTML/CSS 🌐
+- JavaScript 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos en Python
+- [Python Basics](https://github.com/diegogonzalez7/Python_Basics): Lo más básico de Python junto con algunos ejercicios para entender cómo funcionan.
+  - Prints
+  - Variables
+  - Control de flujo
+  - Bucles 
+- [30 dias tutorial](https://github.com/diegogonzalez7/30diastutorial): ¡¡¡SIN ACABAR!!!
+  - Basado en el trabajo de Mouredev
+
+# Prácticas universidad
+- Prácticas de la asignatura de Programación II (C)
+  - [P1](https://github.com/diegogonzalez7/P1)
+  - [P2](https://github.com/diegogonzalez7/P2)
+- Prácticas de la asignatura de Diseño Software (Java)
+  - [Boletín 1](https://github.com/diegogonzalez7/DS_boletin1)
+  - [Boletín 2](https://github.com/diegogonzalez7/DS_boletin2)
+  - [Boletín 3](https://github.com/diegogonzalez7/DS_pd)
