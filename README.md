@@ -14,7 +14,7 @@ Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías
   - Control de flujo
   - Bucles 
 - [30 dias tutorial](https://github.com/diegogonzalez7/30diastutorial): ¡¡¡SIN ACABAR!!!
-  - Basado en el trabajo de Mouredev
+  - Basado en el trabajo de @mouredev
 
 # Prácticas universidad
 - Prácticas de la asignatura de Programación II (C)
@@ -24,3 +24,7 @@ Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías
   - [Boletín 1](https://github.com/diegogonzalez7/DS_boletin1)
   - [Boletín 2](https://github.com/diegogonzalez7/DS_boletin2)
   - [Boletín 3](https://github.com/diegogonzalez7/DS_pd)
+- Prácticas de la asignatura de Redes (Java)
+  - [Redes](https://github.com/diegogonzalez7/Networks)
+- Prácticas de la asignatura de Programación Integrativa (Python, HTML y CSS)
+  - [Culturalízate](https://github.com/diegogonzalez7/Culturalizate)  
