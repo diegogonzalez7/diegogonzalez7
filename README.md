@@ -1,6 +1,6 @@
-# ¡Bienvenido a mi perfil de GitHub!
+# ¡Hola 👋, bienvenido a mi perfil de Github!
 
-Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías. Actualmente, estoy enfocado en mejorar mis habilidades en los siguientes lenguajes:
+Soy un estudiante de Ingeniería Informática y me apasiona aprender nuevas tecnologías y lenguajes. Actualmente, estoy enfocado en mejorar mis habilidades en los siguientes lenguajes:
 
 - Python 🐍
 - C 🖥️
@@ -14,7 +14,6 @@ Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías
   - Control de flujo
   - Bucles 
 - [30 dias tutorial](https://github.com/diegogonzalez7/30diastutorial): ¡¡¡SIN ACABAR!!!
-  - Basado en el trabajo de @mouredev
 
 # Prácticas universidad
 - Prácticas de la asignatura de Programación II (C)
@@ -27,4 +26,11 @@ Soy un entusiasta de la programación y me apasiona aprender nuevas tecnologías
 - Prácticas de la asignatura de Redes (Java)
   - [Redes](https://github.com/diegogonzalez7/Networks)
 - Prácticas de la asignatura de Programación Integrativa (Python, HTML y CSS)
-  - [Culturalízate](https://github.com/diegogonzalez7/Culturalizate)  
+  - [Culturalízate](https://github.com/diegogonzalez7/Culturalizate)
+ 
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogonzalez7&show_icons=true&locale=en&layout=compact" alt="diegogonzalez7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegogonzalez7&show_icons=true&locale=en" alt="diegogonzalez7" /></p>
