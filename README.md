@@ -83,9 +83,6 @@
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
           </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          </a>
           <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
           </a>
@@ -94,6 +91,24 @@
           </a>
           <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+          </a>
+          <a href="https://octave.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/2048px-Gnu-octave-logo.svg.png" alt="octave" width="40" height="40"/>
+          </a>
+          <a href="https://www.microsoft.com/es-es/microsoft-365/project/project-management-software" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/880px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" alt="project" width="40" height="40"/>
+          </a>
+          <a href="https://www.netacad.com/es/courses/packet-tracer" target="_blank" rel="noreferrer">
+            <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="packettracer" width="40" height="40"/>
+          </a>
+          <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" width="40" height="40"/>
+          </a>
+          <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="dbeaver" width="40" height="40"/>
+          </a>
+          <a href="http://dia-installer.de/shapes/Database/index.html.es" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dia.svg/1200px-Dia.svg.png" alt="dia" width="40" height="40"/>
           </a>
         </p>
       </td>
