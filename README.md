@@ -114,7 +114,7 @@
       </td>
       <td>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogonzalez7&show_icons=true&locale=en&layout=compact" alt="diegogonzalez7" width="300" height="300"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogonzalez7&show_icons=true&locale=en&layout=compact" alt="diegogonzalez7"/>
         </div>
       </td>
     </tr>
