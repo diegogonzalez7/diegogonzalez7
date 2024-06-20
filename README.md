@@ -1,8 +1,8 @@
-<h1 align="center" style="background-image: url('https://img.freepik.com/foto-gratis/fondo-papel_53876-147734.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1718582400&semt=ais_user'); color: white; padding: 20px; border-radius: 10px;">
+<h1 align="center">
   ¡Hola 👋, bienvenido a mi perfil de Github!
 </h1>
 
-<div style="background-image: url('https://img.freepik.com/foto-gratis/fondo-papel_53876-147734.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1718582400&semt=ais_user'); padding: 20px; border-radius: 10px;">
+<div padding: 20px; border-radius: 10px;">
   <p>Soy un estudiante de Ingeniería Informática y me apasiona aprender nuevas tecnologías y lenguajes. Actualmente, estoy enfocado en mejorar mis habilidades en los siguientes lenguajes:</p>
   <ul>
     <li>Python 🐍</li>
@@ -114,7 +114,7 @@
       </td>
       <td>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogonzalez7&show_icons=true&locale=en&layout=compact" alt="diegogonzalez7" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogonzalez7&show_icons=true&locale=en&layout=compact" alt="diegogonzalez7" width="300" height="300"/>
         </div>
       </td>
     </tr>
